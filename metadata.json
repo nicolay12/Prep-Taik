@@ -1,0 +1,8 @@
+{
+  "name": "Prep Talk",
+  "description": "A secure, mobile-first messenger with instant translation, media sharing, and high-quality video calls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
